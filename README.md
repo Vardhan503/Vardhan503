@@ -1,4 +1,5 @@
-![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)
+<a href="https://ibb.co/cT7gYRL"><img src="https://i.ibb.co/MN32BK6/Screenshot-2023-02-11-164344.png" alt="Screenshot-2023-02-11-164344" align="center" ></a>
+
 <h1 align="center">Hi 👋, I'm Vardhan</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer</h3>
 <img align="right" alt="Coding"  width="400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif")
