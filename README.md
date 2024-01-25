@@ -1,4 +1,3 @@
-<a href="https://ibb.co/cT7gYRL"><img src="https://i.ibb.co/MN32BK6/Screenshot-2023-02-11-164344.png" alt="Screenshot-2023-02-11-164344" align="center" ></a>
 
 <h1 align="center">Hi 👋, I'm Vardhan</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer</h3>
