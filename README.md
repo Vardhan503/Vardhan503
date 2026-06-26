@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sai Vardhan Reddy Narla 👋</h1>
+<h1 align="center">Hi, I'm Sai Vardhan 👋</h1>
 
 I build AI systems that hold up in production — and I got here through the backend.
 
